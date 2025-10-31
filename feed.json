@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Leo&#x27;s Den",
+    "description": "",
+    "home_page_url": "https://leolatah.github.io/mywebsite",
+    "feed_url": "https://leolatah.github.io/mywebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Leolatah"
+    },
+    "items": [
+        {
+            "id": "https://leolatah.github.io/mywebsite/the-sunday-laye.html",
+            "url": "https://leolatah.github.io/mywebsite/the-sunday-laye.html",
+            "title": "The Sunday Layer",
+            "summary": "Prep time: 25 min | Cook time: 45 mins Ingredients White Sauce Other Instructions Preheat oven: 180 White Sauce Asemble In a baking dish, layer: Lasagne sheets, mince, white sauce ( repeat layers,until;l slightly full )",
+            "content_html": "<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"6\">\n<figure class=\"gallery__item\"><a href=\"file:///C:/Users/Leolatahd/Documents/Publii/sites/leos-den/input/media/posts/2/gallery/food-2.jpg\" data-size=\"1500x1000\"><img loading=\"lazy\" src=\"file:///C:/Users/Leolatahd/Documents/Publii/sites/leos-den/input/media/posts/2/gallery/food-2-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n</div></div>\n<p><strong>Prep time</strong>: 25 min | <strong>Cook time: </strong>45 mins</p>\n<p><strong>Ingredients</strong></p>\n<ul>\n<li>Olive oil ( 2tbsp )</li>\n<li>Onion </li>\n<li>2 Garlic cloves</li>\n<li>Bell pepper</li>\n<li>Mushrooms</li>\n<li>Tomato Puree</li>\n<li>Tomato Paste </li>\n<li>Lean beef mince ( 500g )</li>\n<li>Mozzerella </li>\n<li>Chedder</li>\n<li>Basil</li>\n<li>Jalepeno</li>\n<li>Oregano</li>\n<li>Beef Stock ( 1 cube )</li>\n</ul>\n<p><strong>White Sauce</strong></p>\n<ul>\n<li>Salted butter ( 2tbsp )</li>\n<li>All purpose flour ( 2tbsp )</li>\n<li>Milk ( 2cups; warm )</li>\n<li>Pepper</li>\n<li>Nutmeg</li>\n</ul>\n<p><strong>Other</strong></p>\n<ul>\n<li>Lasagne sheets  (10 - 13 )</li>\n<li>Parmesean</li>\n</ul>\n<p><strong>Instructions</strong></p>\n<ol>\n<li>Heat oil in pot, at medium heat</li>\n<li>Add diced onions,bell peppers &amp; garlic, and saute (cook until soft)</li>\n<li>Add mince and cook till brown( add any preffered seasonings )</li>\n<li>Stir in tomato puree, tomato paste and stock</li>\n<li>Leave to simmer for 15 - 25 minutes</li>\n</ol>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"file:///C:/Users/Leolatahd/Documents/Publii/sites/leos-den/input/media/posts/2/gallery/Mince-2.png_w=800&amp;rev=7219a14f15964a7c8a0acbef22c24f09\" data-size=\"800x450\"><img loading=\"lazy\" src=\"file:///C:/Users/Leolatahd/Documents/Publii/sites/leos-den/input/media/posts/2/gallery/Mince-2.png_w=800&amp;rev=7219a14f15964a7c8a0acbef22c24f09\" alt=\"\"></a></figure>\n</div></div>\n<p>Preheat oven: <strong>180</strong></p>\n<p><strong>White Sauce</strong></p>\n<ol>\n<li>Melt butter in a saucepan, add flour and whisk for 1minute</li>\n<li>Slowly add warm milk, while whisking, until smooth</li>\n<li>Cook until sauce thickens</li>\n<li>Add pepper and nutmeg</li>\n</ol>\n<p><strong>Asemble</strong></p>\n<ol>\n<li>In a baking dish, layer: Lasagne sheets, mince, white sauce ( repeat layers,until;l slightly full )</li>\n</ol>\n<figure class=\"post__image\"><img loading=\"lazy\"  style=\"font-size: inherit; outline: rgba(13, 139, 242, 0.55) solid 3px !important;\" src=\"file:///C:/Users/Leolatahd/Documents/Publii/sites/leos-den/input/media/posts/2/slice.jpg\" alt=\"\" width=\"399\" height=\"532\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"file:///C:/Users/Leolatahd/Documents/Publii/sites/leos-den/input/media/posts/2/responsive/slice-xs.jpg 640w ,file:///C:/Users/Leolatahd/Documents/Publii/sites/leos-den/input/media/posts/2/responsive/slice-sm.jpg 768w ,file:///C:/Users/Leolatahd/Documents/Publii/sites/leos-den/input/media/posts/2/responsive/slice-md.jpg 1024w ,file:///C:/Users/Leolatahd/Documents/Publii/sites/leos-den/input/media/posts/2/responsive/slice-lg.jpg 1366w ,file:///C:/Users/Leolatahd/Documents/Publii/sites/leos-den/input/media/posts/2/responsive/slice-xl.jpg 1600w ,file:///C:/Users/Leolatahd/Documents/Publii/sites/leos-den/input/media/posts/2/responsive/slice-2xl.jpg 1920w\"></figure>",
+            "author": {
+                "name": "Leolatah"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-31T08:58:15+02:00",
+            "date_modified": "2025-10-31T09:36:16+02:00"
+        }
+    ]
+}

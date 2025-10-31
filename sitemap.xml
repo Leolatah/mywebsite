@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://leolatah.github.io/mywebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://leolatah.github.io/mywebsite/</loc>
+</url>
+<url>
+<loc>https://leolatah.github.io/mywebsite/the-sunday-laye.html</loc>
+<lastmod>2025-10-31T09:36:16+02:00</lastmod>
+</url>
+<url>
+<loc>https://leolatah.github.io/mywebsite/whisk-and-wish.html</loc>
+<lastmod>2025-10-31T09:36:33+02:00</lastmod>
+<image:image>
+<image:loc>https://leolatah.github.io/mywebsite/media/posts/2/Peppermint-Crisp.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://leolatah.github.io/mywebsite/media/posts/2/Classic-beef-stew-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://leolatah.github.io/mywebsite/media/posts/2/Cheese-Board.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://leolatah.github.io/mywebsite/media/posts/2/Fun-and-Cozy.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
